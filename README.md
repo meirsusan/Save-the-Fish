@@ -8,7 +8,7 @@ This game was created with the aim of spreading awareness about the 14th goal of
 # How to play the game
 When the game starts a food will spawn in a random location within the game area. The goal of the game is to eat as many food while avoiding the trash floating around. The controls are WASD with the fish only moving horizontally and vertically.
 # Score guidelines
-Eating a food 100 points
-When a trash crashes to border 1 point
+Eating a food 100 points.
+When a trash crashes to border 1 point.
 
 
